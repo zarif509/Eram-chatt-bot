@@ -1,11 +1,11 @@
 
-# 🤖 Tum Dum
+# 🤖 Raivel
 
 A brand new smart Facebook Messenger chatbot.
 
 ## 👑 Owner
 
-ইরাম
+Zarif 
 
 ## 🚀 Features
 
@@ -22,7 +22,7 @@ A brand new smart Facebook Messenger chatbot.
 
 ## 🧠 AI System
 
-Tum Dum uses its own server-side AI architecture.
+Raivel uses its own server-side AI architecture.
 
 The AI system is designed to support:
 - Natural conversation
