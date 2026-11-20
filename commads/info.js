@@ -2,7 +2,7 @@ const config = require("../config.json");
 
 module.exports = {
   name: "info",
-  description: "Tum Dum bot information",
+  description: "Rivel bot information",
 
   async execute({ api, event }) {
     const text =
