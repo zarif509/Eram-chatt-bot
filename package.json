@@ -1,7 +1,7 @@
 {
-  "name": "tum-dum",
+  "name": "Raivel",
   "version": "1.0.0",
-  "description": "Tum Dum Smart Messenger Bot",
+  "description": "Raivel_bot by Zarif",
   "main": "Main.js",
   "scripts": {
     "start": "node Main.js"
